@@ -1,4 +1,4 @@
-shp2sim
+# shp2sim
 
 shp2sim offers a pipeline to:
 1. create CityGML models from shapefiles using FME
