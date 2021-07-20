@@ -4,8 +4,8 @@ Created July 2015
 @author: TEASER 4 Development Team
 """
 
-from teaser.logic import utilities
-from teaser.project import Project
+from teaser_v0_6_6.logic import utilities
+from teaser_v0_6_6.project import Project
 import math
 import os
 import helptest
@@ -20,7 +20,7 @@ class Test_teaser(object):
 
     def test_calc_vdi_room1(self):
         """Parameter Verification for rouvel room1"""
-        import teaser.examples.verification.verification_VDI_6007_room1 as room1
+        import teaser_v0_6_6.examples.verification.verification_VDI_6007_room1 as room1
 
         room1_prj = room1.parameter_room1()
         zone_attr = room1_prj.buildings[0].thermal_zones[0].model_attr
@@ -45,7 +45,7 @@ class Test_teaser(object):
 
     def test_calc_vdi_room3(self):
         """Parameter Verification for room 3"""
-        import teaser.examples.verification.verification_VDI_6007_room3 as room3
+        import teaser_v0_6_6.examples.verification.verification_VDI_6007_room3 as room3
 
         room3_prj = room3.parameter_room3()
         zone_attr = room3_prj.buildings[0].thermal_zones[0].model_attr
@@ -70,7 +70,7 @@ class Test_teaser(object):
 
     def test_calc_vdi_room8(self):
         """Parameter Verification for room 8"""
-        import teaser.examples.verification.verification_VDI_6007_room8 as room8
+        import teaser_v0_6_6.examples.verification.verification_VDI_6007_room8 as room8
 
         room8_prj = room8.parameter_room8()
         zone_attr = room8_prj.buildings[0].thermal_zones[0].model_attr
@@ -134,7 +134,7 @@ class Test_teaser(object):
         Verification of the type building generation of an office building.
         Values are compared with TEASER3 values.
         """
-        from teaser.logic.archetypebuildings.bmvbs.office import Office
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.office import Office
 
         prj.set_default()
         test_office = Office(parent=prj,
@@ -262,7 +262,7 @@ class Test_teaser(object):
         Verification of the type building generation of an office building.
         Values are compared with TEASER3 values.
         """
-        from teaser.logic.archetypebuildings.bmvbs.custom.institute4 import \
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.custom.institute4 import \
             Institute4
 
         prj.set_default()
@@ -318,7 +318,7 @@ class Test_teaser(object):
         Verification of the type building generation of an office building.
         Values are compared with TEASER3 values.
         """
-        from teaser.logic.archetypebuildings.bmvbs.custom.institute8 import \
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.custom.institute8 import \
             Institute8
 
         prj.set_default()
@@ -374,7 +374,7 @@ class Test_teaser(object):
         Verification of the type building generation of an office building.
         Values are compared with TEASER3 values.
         """
-        from teaser.logic.archetypebuildings.bmvbs.custom.institute import \
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.custom.institute import \
             Institute
 
         prj.set_default()
@@ -430,7 +430,7 @@ class Test_teaser(object):
         Verification of the type building generation of an office building.
         Values are compared with TEASER3 values.
         """
-        from teaser.logic.archetypebuildings.bmvbs.singlefamilydwelling \
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.singlefamilydwelling \
             import SingleFamilyDwelling
 
         prj.set_default()
@@ -1264,7 +1264,7 @@ class Test_teaser(object):
         prj.set_default()
         helptest.building_test2(prj)
 
-        from teaser.logic.buildingobjects.calculation.one_element import\
+        from teaser_v0_6_6.logic.buildingobjects.calculation.one_element import\
             OneElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1315,7 +1315,7 @@ class Test_teaser(object):
     def test_calc_chain_matrix_one(self):
         """test of calc_chain_matrix"""
 
-        from teaser.logic.buildingobjects.calculation.one_element import \
+        from teaser_v0_6_6.logic.buildingobjects.calculation.one_element import \
             OneElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1346,7 +1346,7 @@ class Test_teaser(object):
         prj.set_default()
         helptest.building_test2(prj)
 
-        from teaser.logic.buildingobjects.calculation.two_element import\
+        from teaser_v0_6_6.logic.buildingobjects.calculation.two_element import\
             TwoElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1408,7 +1408,7 @@ class Test_teaser(object):
 
     def test_calc_chain_matrix_two(self):
         """test of calc_chain_matrix"""
-        from teaser.logic.buildingobjects.calculation.two_element import \
+        from teaser_v0_6_6.logic.buildingobjects.calculation.two_element import \
             TwoElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1450,7 +1450,7 @@ class Test_teaser(object):
         prj.set_default()
         helptest.building_test2(prj)
 
-        from teaser.logic.buildingobjects.calculation.three_element import\
+        from teaser_v0_6_6.logic.buildingobjects.calculation.three_element import\
             ThreeElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1523,7 +1523,7 @@ class Test_teaser(object):
 
     def test_calc_chain_matrix_three(self):
         """test of calc_chain_matrix"""
-        from teaser.logic.buildingobjects.calculation.three_element import \
+        from teaser_v0_6_6.logic.buildingobjects.calculation.three_element import \
             ThreeElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1563,7 +1563,7 @@ class Test_teaser(object):
         prj.set_default()
         helptest.building_test2(prj)
 
-        from teaser.logic.buildingobjects.calculation.four_element import\
+        from teaser_v0_6_6.logic.buildingobjects.calculation.four_element import\
             FourElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -1653,7 +1653,7 @@ class Test_teaser(object):
 
     def test_calc_chain_matrix_four(self):
         """test of calc_chain_matrix"""
-        from teaser.logic.buildingobjects.calculation.four_element import \
+        from teaser_v0_6_6.logic.buildingobjects.calculation.four_element import \
             FourElement
 
         therm_zone = prj.buildings[-1].thermal_zones[-1]
@@ -2370,7 +2370,7 @@ class Test_teaser(object):
         """test of load_material_template and save_material_template,
         no parameter checking"""
 
-        from teaser.logic.buildingobjects.buildingphysics.material import \
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.material import \
             Material
 
         path = os.path.join(utilities.get_default_path(),
@@ -2380,7 +2380,7 @@ class Test_teaser(object):
         mat.load_material_template(mat_name='Tiledroof',
                                    data_class=prj.data)
 
-        from teaser.data.dataclass import DataClass
+        from teaser_v0_6_6.data.dataclass import DataClass
 
         dat = DataClass()
         dat.path_mat = path
@@ -2399,8 +2399,8 @@ class Test_teaser(object):
     def test_warnings_prj(self):
         """Tests misc parts in project.py"""
 
-        from teaser.logic.buildingobjects.building import Building
-        from teaser.logic.buildingobjects.thermalzone import ThermalZone
+        from teaser_v0_6_6.logic.buildingobjects.building import Building
+        from teaser_v0_6_6.logic.buildingobjects.thermalzone import ThermalZone
         # warnings for not calculated buidlings
         bld = Building(parent=prj)
         tz = ThermalZone(parent=bld)
@@ -2486,7 +2486,7 @@ class Test_teaser(object):
         Tests AixLib output for a building with inner walls only
         """
 
-        from teaser.logic.buildingobjects.building import Building
+        from teaser_v0_6_6.logic.buildingobjects.building import Building
         prj.set_default(load_data=True)
 
         bldg = Building(parent=prj)
@@ -2497,7 +2497,7 @@ class Test_teaser(object):
         bldg.number_of_floors = 1
         bldg.height_of_floors = 3.5
 
-        from teaser.logic.buildingobjects.thermalzone import ThermalZone
+        from teaser_v0_6_6.logic.buildingobjects.thermalzone import ThermalZone
 
         tz = ThermalZone(parent=bldg)
         tz.name = "LivingRoom"
@@ -2505,12 +2505,12 @@ class Test_teaser(object):
         tz.volume = tz.area * bldg.number_of_floors * bldg.height_of_floors
         tz.infiltration_rate = 0.5
 
-        from teaser.logic.buildingobjects.boundaryconditions.boundaryconditions import BoundaryConditions
+        from teaser_v0_6_6.logic.buildingobjects.boundaryconditions.boundaryconditions import BoundaryConditions
 
         tz.use_conditions = BoundaryConditions(parent=tz)
         tz.use_conditions.load_use_conditions("Living", prj.data)
 
-        from teaser.logic.buildingobjects.buildingphysics.innerwall import InnerWall
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.innerwall import InnerWall
 
         in_wall_dict = {"InnerWall1": [10.0],
                         "InnerWall2": [14.0],
@@ -2578,7 +2578,7 @@ class Test_teaser(object):
         Tests AixLib output for a building with outer walls only
         """
 
-        from teaser.logic.buildingobjects.building import Building
+        from teaser_v0_6_6.logic.buildingobjects.building import Building
 
         bldg = Building(parent=prj)
         bldg.name = "SuperExampleBuilding"
@@ -2588,7 +2588,7 @@ class Test_teaser(object):
         bldg.number_of_floors = 1
         bldg.height_of_floors = 3.5
 
-        from teaser.logic.buildingobjects.thermalzone import ThermalZone
+        from teaser_v0_6_6.logic.buildingobjects.thermalzone import ThermalZone
 
         tz = ThermalZone(parent=bldg)
         tz.name = "LivingRoom"
@@ -2596,13 +2596,13 @@ class Test_teaser(object):
         tz.volume = tz.area * bldg.number_of_floors * bldg.height_of_floors
         tz.infiltration_rate = 0.5
 
-        from teaser.logic.buildingobjects.boundaryconditions.boundaryconditions \
+        from teaser_v0_6_6.logic.buildingobjects.boundaryconditions.boundaryconditions \
             import BoundaryConditions
 
         tz.use_conditions = BoundaryConditions(parent=tz)
         tz.use_conditions.load_use_conditions("Living", prj.data)
 
-        from teaser.logic.buildingobjects.buildingphysics.outerwall import \
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.outerwall import \
             OuterWall
 
         out_wall_dict = {"OuterWall_north": [10.0, 90.0, 0.0],
@@ -2699,7 +2699,7 @@ class Test_teaser(object):
         Tests AixLib output for a building with windows only
         """
 
-        from teaser.logic.buildingobjects.building import Building
+        from teaser_v0_6_6.logic.buildingobjects.building import Building
 
         bldg = Building(parent=prj)
         bldg.name = "SuperExampleBuilding"
@@ -2709,7 +2709,7 @@ class Test_teaser(object):
         bldg.number_of_floors = 1
         bldg.height_of_floors = 3.5
 
-        from teaser.logic.buildingobjects.thermalzone import ThermalZone
+        from teaser_v0_6_6.logic.buildingobjects.thermalzone import ThermalZone
 
         tz = ThermalZone(parent=bldg)
         tz.name = "LivingRoom"
@@ -2717,15 +2717,15 @@ class Test_teaser(object):
         tz.volume = tz.area * bldg.number_of_floors * bldg.height_of_floors
         tz.infiltration_rate = 0.5
 
-        from teaser.logic.buildingobjects.boundaryconditions.boundaryconditions \
+        from teaser_v0_6_6.logic.buildingobjects.boundaryconditions.boundaryconditions \
             import BoundaryConditions
 
         tz.use_conditions = BoundaryConditions(parent=tz)
         tz.use_conditions.load_use_conditions("Living", prj.data)
 
-        from teaser.logic.buildingobjects.buildingphysics.window import Window
-        from teaser.logic.buildingobjects.buildingphysics.layer import Layer
-        from teaser.logic.buildingobjects.buildingphysics.material import \
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.window import Window
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.layer import Layer
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.material import \
             Material
 
         win_dict = {"Window_east": [5.0, 90.0, 90.0],
@@ -2835,7 +2835,7 @@ class Test_teaser(object):
         Tests AixLib output for a building with rooftops only
         """
 
-        from teaser.logic.buildingobjects.building import Building
+        from teaser_v0_6_6.logic.buildingobjects.building import Building
 
         bldg = Building(parent=prj)
         bldg.name = "SuperExampleBuilding"
@@ -2845,7 +2845,7 @@ class Test_teaser(object):
         bldg.number_of_floors = 1
         bldg.height_of_floors = 3.5
 
-        from teaser.logic.buildingobjects.thermalzone import ThermalZone
+        from teaser_v0_6_6.logic.buildingobjects.thermalzone import ThermalZone
 
         tz = ThermalZone(parent=bldg)
         tz.name = "LivingRoom"
@@ -2853,13 +2853,13 @@ class Test_teaser(object):
         tz.volume = tz.area * bldg.number_of_floors * bldg.height_of_floors
         tz.infiltration_rate = 0.5
 
-        from teaser.logic.buildingobjects.boundaryconditions.boundaryconditions \
+        from teaser_v0_6_6.logic.buildingobjects.boundaryconditions.boundaryconditions \
             import BoundaryConditions
 
         tz.use_conditions = BoundaryConditions(parent=tz)
         tz.use_conditions.load_use_conditions("Living", prj.data)
 
-        from teaser.logic.buildingobjects.buildingphysics.rooftop import \
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.rooftop import \
             Rooftop
 
         roof_south = Rooftop(parent=tz)
@@ -2882,12 +2882,12 @@ class Test_teaser(object):
         roof_north.inner_radiation = 5.0
         roof_north.outer_radiation = 5.0
 
-        from teaser.logic.buildingobjects.buildingphysics.layer import Layer
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.layer import Layer
 
         layer_s1 = Layer(parent=roof_south, id=0)
         layer_s1.thickness = 0.3
 
-        from teaser.logic.buildingobjects.buildingphysics.material import \
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.material import \
             Material
 
         material_s1 = Material(layer_s1)
@@ -2976,7 +2976,7 @@ class Test_teaser(object):
         Tests AixLib output for a building with ground floors only
         """
 
-        from teaser.logic.buildingobjects.building import Building
+        from teaser_v0_6_6.logic.buildingobjects.building import Building
 
         bldg = Building(parent=prj)
         bldg.name = "SuperExampleBuilding"
@@ -2986,7 +2986,7 @@ class Test_teaser(object):
         bldg.number_of_floors = 1
         bldg.height_of_floors = 3.5
 
-        from teaser.logic.buildingobjects.thermalzone import ThermalZone
+        from teaser_v0_6_6.logic.buildingobjects.thermalzone import ThermalZone
 
         tz = ThermalZone(parent=bldg)
         tz.name = "LivingRoom"
@@ -2994,13 +2994,13 @@ class Test_teaser(object):
         tz.volume = tz.area * bldg.number_of_floors * bldg.height_of_floors
         tz.infiltration_rate = 0.5
 
-        from teaser.logic.buildingobjects.boundaryconditions.boundaryconditions \
+        from teaser_v0_6_6.logic.buildingobjects.boundaryconditions.boundaryconditions \
             import BoundaryConditions
 
         tz.use_conditions = BoundaryConditions(parent=tz)
         tz.use_conditions.load_use_conditions("Living", prj.data)
 
-        from teaser.logic.buildingobjects.buildingphysics.groundfloor import \
+        from teaser_v0_6_6.logic.buildingobjects.buildingphysics.groundfloor import \
             GroundFloor
 
         ground_floor_dict = {"GroundFloor": [100.0, 0.0, -2]}
@@ -3066,7 +3066,7 @@ class Test_teaser(object):
 
     def test_ashrae_140_600(self):
 
-        from teaser.examples.verification.verification_ASHRAE_140_600 import\
+        from teaser_v0_6_6.examples.verification.verification_ASHRAE_140_600 import\
             main as exmain
 
         exmain(number_of_elements=1)
@@ -3076,7 +3076,7 @@ class Test_teaser(object):
 
     def test_ashrae_140_620(self):
 
-        from teaser.examples.verification.verification_ASHRAE_140_620 import\
+        from teaser_v0_6_6.examples.verification.verification_ASHRAE_140_620 import\
             main as exmain
 
         exmain(number_of_elements=1)
@@ -3086,7 +3086,7 @@ class Test_teaser(object):
 
     def test_ashrae_140_900(self):
 
-        from teaser.examples.verification.verification_ASHRAE_140_900 import\
+        from teaser_v0_6_6.examples.verification.verification_ASHRAE_140_900 import\
             main as exmain
 
         exmain(number_of_elements=1)
@@ -3096,7 +3096,7 @@ class Test_teaser(object):
 
     def test_ashrae_140_920(self):
 
-        from teaser.examples.verification.verification_ASHRAE_140_920 import\
+        from teaser_v0_6_6.examples.verification.verification_ASHRAE_140_920 import\
             main as exmain
 
         exmain(number_of_elements=1)
@@ -3111,8 +3111,8 @@ class Test_teaser(object):
         except ImportError:
             return 0
 
-        from teaser.logic.buildingobjects.calculation.ibpsa import IBPSA
-        from teaser.logic.archetypebuildings.bmvbs.office import Office
+        from teaser_v0_6_6.logic.buildingobjects.calculation.ibpsa import IBPSA
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.office import Office
 
         prj.set_default()
         test_office = Office(parent=prj,
@@ -3165,7 +3165,7 @@ class Test_teaser(object):
         Verification of the type building generation of an office building.
         Values are compared with TEASER3 values.
         """
-        from teaser.logic.archetypebuildings.bmvbs.singlefamilydwelling \
+        from teaser_v0_6_6.logic.archetypebuildings.bmvbs.singlefamilydwelling \
             import SingleFamilyDwelling
 
         prj.set_default()

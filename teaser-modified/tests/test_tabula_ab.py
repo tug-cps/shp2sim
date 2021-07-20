@@ -1,4 +1,4 @@
-from teaser.project import Project
+from teaser_v0_6_6.project import Project
 prj = Project(False)
 
 
