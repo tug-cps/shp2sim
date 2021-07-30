@@ -2,7 +2,7 @@ from multiprocessing import Pool
 from buildingspy.simulate.Simulator import Simulator
 
 
-def run_simulation(model_path, output_path, buildings):
+def run_simulation(project_name, model_path, output_path, buildings):
     """
     Performs building heating demand simulation using buildingspy and Dymola.
     @param model_path: Path to Modelica model.
@@ -11,8 +11,9 @@ def run_simulation(model_path, output_path, buildings):
     """
     sim_buildings = []
     for building in buildings:
-        model = 'campus_inffeld_test3' + '.' + building + '.' + building
+        model = f'{project_name}.{building}.{building}'
         s = Simulator(model, 'dymola', output_path, model_path)
+        s.setResultFile(building)
         sim_buildings.append(s)
     po = Pool()
     po.map(create_simulator, sim_buildings)
@@ -28,14 +29,9 @@ def create_simulator(simulator, t_start=0, t_stop=31536000, intervals=8760, solv
     @param solver: Solver used in Dymola simulation. Default is Cvode. See Dymola docs for available solvers.
     @param tol: Simulation tolerance
     """
-    #s.setResultFile(building)
     simulator.setStartTime(t_start)
     simulator.setStopTime(t_stop)
     simulator.setNumberOfIntervals(intervals)
     simulator.setSolver(solver)
     simulator.setTolerance(tol)
-    # s.showGUI(True)
-    simulator.showProgressBar(True)
-    # s.getParameters()
-    # s.getOutputDirectory()
     simulator.simulate()

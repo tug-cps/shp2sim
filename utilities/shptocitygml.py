@@ -1,5 +1,6 @@
 import sys
-import os
+from pathlib import Path
+
 sys.path.append('path/to/FME/fmeobjects/pythonXX')
 from fmeobjects import FMEWorkspaceRunner, FMEException
 
@@ -11,7 +12,7 @@ def shptocitygml(shp_file, output_path):
     :param output_path: Path to output CityGML model.
     """
 
-    fme_workbench = os.path.join(os.path.abspath(__file__), 'lib', 'fme_workbench')
+    fme_workbench = Path(__file__).parent.parent / 'fme' / 'fme_workbench'
     runner = FMEWorkspaceRunner()
     parameters = dict()
     parameters['SourceDataset_SHAPEFILE'] = shp_file
