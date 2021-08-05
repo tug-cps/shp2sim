@@ -40,3 +40,10 @@ def enrich_citygml(project_name, citygml_file, weather_file, output_path, lib='A
     buildingslist = []
     for building in prj.buildings:
         buildingslist.append(building.name)
+
+if __name__ == "__main__":
+    project = ""
+    filepath = ""
+    weather_file = ""
+    outpath = ""
+    enrich_citygml(project, filepath, weather_file, outpath)

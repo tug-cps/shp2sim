@@ -28,16 +28,16 @@ _module_typeBindings = pyxb.utils.utility.Object()
 
 # Import bindings for namespaces imported into schema
 import pyxb.bundles.common.xlink
-import teaser.data.bindings.opengis.raw._nsgroup
+import teaser_v0_6_6.data.bindings.opengis.raw._nsgroup
 import pyxb.binding.datatypes
-import teaser.data.bindings.opengis.raw.smil20
+import teaser_v0_6_6.data.bindings.opengis.raw.smil20
 
 # NOTE: All namespace declarations are reserved within the binding
 Namespace = pyxb.namespace.NamespaceForURI('http://www.opengis.net/gml', create_if_missing=True)
 Namespace.configureCategories(['typeBinding', 'elementBinding'])
 _Namespace_xlink = pyxb.bundles.common.xlink.Namespace
 _Namespace_xlink.configureCategories(['typeBinding', 'elementBinding'])
-_Namespace_smil20 = teaser.data.bindings.opengis.raw.smil20.Namespace
+_Namespace_smil20 = teaser_v0_6_6.data.bindings.opengis.raw.smil20.Namespace
 _Namespace_smil20.configureCategories(['typeBinding', 'elementBinding'])
 
 def CreateFromDocument (xml_text, default_namespace=None, location_base=None):
@@ -33395,13 +33395,13 @@ BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.Ex
 
 BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(Namespace, 'styleVariation'), StyleVariationType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/base/defaultStyle.xsd', 143, 5)))
 
-BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'animate'), teaser.data.bindings.opengis.raw._nsgroup.animateType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 65, 1)))
+BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'animate'), teaser_v0_6_6.data.bindings.opengis.raw._nsgroup.animateType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 65, 1)))
 
-BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'animateMotion'), teaser.data.bindings.opengis.raw._nsgroup.animateMotionType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 124, 1)))
+BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'animateMotion'), teaser_v0_6_6.data.bindings.opengis.raw._nsgroup.animateMotionType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 124, 1)))
 
-BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'animateColor'), teaser.data.bindings.opengis.raw._nsgroup.animateColorType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 130, 1)))
+BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'animateColor'), teaser_v0_6_6.data.bindings.opengis.raw._nsgroup.animateColorType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 130, 1)))
 
-BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'set'), teaser.data.bindings.opengis.raw._nsgroup.setType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 136, 1)))
+BaseStyleDescriptorType._AddElement(pyxb.binding.basis.element(pyxb.namespace.ExpandedName(_Namespace_smil20, 'set'), teaser_v0_6_6.data.bindings.opengis.raw._nsgroup.setType, scope=BaseStyleDescriptorType, location=pyxb.utils.utility.Location('/home/micha/GIT/pyxb/pyxb/bundles/opengis/schemas/gml/3.1.1/smil/smil20.xsd', 136, 1)))
 
 def _BuildAutomaton_158 ():
     # Remove this helper function from the namespace after it is invoked
