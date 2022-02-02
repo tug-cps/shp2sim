@@ -1,0 +1,129 @@
+... loading "tab1" from "C:/Users/there/Desktop/TU Graz/Endbericht/weatherfile/AUT_Graz.112400_IWEC(2).mos"
+... loading "Internals" from "C:/Users/there/AppData/Local/Temp/tmp-simulator-there-tjl8nn95/modelica/Inffeldgasse/Inffeldgasse13_1/InternalGains_Inffeldgasse13_1.mat"
+... loading "AHU" from "C:/Users/there/AppData/Local/Temp/tmp-simulator-there-tjl8nn95/modelica/Inffeldgasse/Inffeldgasse13_1/AHU_Inffeldgasse13_1.mat"
+... loading "Tset" from "C:/Users/there/AppData/Local/Temp/tmp-simulator-there-tjl8nn95/modelica/Inffeldgasse/Inffeldgasse13_1/Tset_Inffeldgasse13_1.mat"
+... loading "Internals" from "C:/Users/there/AppData/Local/Temp/tmp-simulator-there-tjl8nn95/modelica/Inffeldgasse/Inffeldgasse13_1/InternalGains_Inffeldgasse13_1.mat"
+... loading "AHU" from "C:/Users/there/AppData/Local/Temp/tmp-simulator-there-tjl8nn95/modelica/Inffeldgasse/Inffeldgasse13_1/AHU_Inffeldgasse13_1.mat"
+... loading "Tset" from "C:/Users/there/AppData/Local/Temp/tmp-simulator-there-tjl8nn95/modelica/Inffeldgasse/Inffeldgasse13_1/Tset_Inffeldgasse13_1.mat"
+Model: Inffeldgasse.Inffeldgasse13_1.Inffeldgasse13_1
+Integration started at 0 using integration method:
+cvode from sundials
+
+cvode: CVODE CVode At t = 453132, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 712240, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 885000, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 971479, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 975077, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.05776e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.31707e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.49016e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.57662e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.66307e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.13115e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.73606e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 4.77302e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 4.94574e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 5.33759e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 5.46415e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 5.54995e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 5.89554e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 5.98234e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 6.32783e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 6.50059e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 6.58722e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 7.27878e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 7.79671e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 7.88318e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 7.96953e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.18973e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.22837e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.40163e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.48776e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.5356e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.57419e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.66075e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.74735e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 8.83328e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 9.26542e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 9.352e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 9.43784e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 9.61092e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 9.69735e+06, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.01299e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.03888e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.04752e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.0648e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.08208e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.09074e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.09113e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.09937e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.12527e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.13391e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.15984e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.20302e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.25487e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.26352e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.28079e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.30671e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.38446e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.47951e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.51408e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.53135e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 1.54e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.10161e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.14482e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.17075e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.20529e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.23122e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.23989e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.27439e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.30032e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.35219e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.36079e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.39537e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.41265e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.42994e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.43856e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.44719e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.48176e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.49041e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.51632e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.52495e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.5336e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.54224e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.55089e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.60272e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.61137e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.63729e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.64591e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.68917e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.6917e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.69782e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.74964e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.8274e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.93106e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.9397e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.94836e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 2.99156e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.00021e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.00883e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.02609e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.03474e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.08658e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.11252e+07, mxstep steps taken before reaching tout.
+cvode: CVODE CVode At t = 3.12115e+07, mxstep steps taken before reaching tout.
+Integration terminated successfully at T = 3.1536e+07
+   CPU-time for integration                  : 118.68 seconds
+   CPU-time for initialization               : 0.084 seconds
+   Number of result points                   : 8761
+   Number of grid points                     : 103
+   Number of accepted steps                  : 291746
+   Number of rejected steps                  : 22218
+   Number of f-evaluations (dynamics)        : 453807
+   Number of non-linear iteration            : 417394
+   Number of non-linear convergence failures : 392
+   Number of Jacobian-evaluations            : 15352
+   Number of crossing function evaluations   : 294866
+   Number of model time events               : 8760
+   Number of state events                    : 342
+   Number of step events                     : 0
