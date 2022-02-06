@@ -10,15 +10,16 @@ model Petersgasse136_3
     T_start = 293.15,
     VAir = 2800.8632011413574,
     ABuilding=1029.33984375,
-    ASurTot=12513.563532902113,
-    numZones = 6,
+    ASurTot=17057.953399140137,
+    numZones = 7,
     zoneParam = {
       Petersgasse136_3_DataBase.Petersgasse136_3_Office(),
       Petersgasse136_3_DataBase.Petersgasse136_3_Floor(),
       Petersgasse136_3_DataBase.Petersgasse136_3_Storage(),
       Petersgasse136_3_DataBase.Petersgasse136_3_Meeting(),
       Petersgasse136_3_DataBase.Petersgasse136_3_Restroom(),
-      Petersgasse136_3_DataBase.Petersgasse136_3_ICT()
+      Petersgasse136_3_DataBase.Petersgasse136_3_ICT(),
+      Petersgasse136_3_DataBase.Petersgasse136_3_Laboratory()
       },
   heatAHU = false,
   coolAHU = false,
@@ -49,7 +50,7 @@ model Petersgasse136_3
     calTSky=AixLib.BoundaryConditions.Types.SkyTemperatureCalculation.HorizontalRadiation,
     computeWetBulbTemperature=false,
     filNam=
-      "C:/Users/there/Desktop/TU Graz/Endbericht/weatherfile/AUT_Graz.112400_IWEC(2).mos")
+      "C:/Users/there/Downloads/AUT_ST_Graz.Univ.112900_TMYx/AUT_ST_Graz.Univ.112900_TMYx.mos")
     "Weather data reader"
     annotation (Placement(transformation(extent={{-82,30},{-62,50}})));
 
@@ -59,7 +60,7 @@ model Petersgasse136_3
     tableName="Internals",
     fileName=Modelica.Utilities.Files.loadResource(
         "modelica://Inffeldgasse/Petersgasse136_3/InternalGains_Petersgasse136_3.mat"),
-    columns=2:19)
+    columns=2:22)
     "Profiles for internal gains"
     annotation (Placement(transformation(extent={{72,-42},{56,-26}})));
 
@@ -79,11 +80,11 @@ model Petersgasse136_3
     extrapolation=Modelica.Blocks.Types.Extrapolation.Periodic,
     fileName=Modelica.Utilities.Files.loadResource(
         "modelica://Inffeldgasse/Petersgasse136_3/Tset_Petersgasse136_3.mat"),
-    columns=2:7)
+    columns=2:8)
     "Set points for heater"
     annotation (Placement(transformation(extent={{72,-66},{56,-50}})));
 
-  Modelica.Blocks.Sources.Constant const[6](each k=0)
+  Modelica.Blocks.Sources.Constant const[7](each k=0)
     "Set point for cooler"
     annotation (Placement(transformation(extent={{72,-90},{56,-74}})));
 

@@ -9,7 +9,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 26_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.42230224609375</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -124,7 +124,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 24_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2007</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">12.9298095703125</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -341,7 +341,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 24_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2007</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.399993896484376</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -456,7 +456,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 24_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2007</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.563919067382812</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -707,7 +707,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 24_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2007</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.709991455078127</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -958,7 +958,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 16B_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">10.65997314453125</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -1209,7 +1209,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 16_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">10.706130981445312</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -1460,7 +1460,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 16A_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">10.70001220703125</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -1711,7 +1711,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 16C_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">10.670013427734377</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -1894,7 +1894,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 12_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.64178466796875</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -2298,7 +2298,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 12_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.215972900390626</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -2413,7 +2413,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 12_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.320266723632814</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -2579,7 +2579,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 12_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.290008544921875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -2762,7 +2762,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.157470703125</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -3064,7 +3064,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.552276611328123</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -3281,7 +3281,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">14.640853881835938</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -3430,7 +3430,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.1392822265625</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -3613,7 +3613,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.99273681640625</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -3745,7 +3745,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.6099853515625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -4064,7 +4064,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_9</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.686264038085938</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -4247,7 +4247,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">24.680999755859375</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -4362,7 +4362,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 31a_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.040008544921876</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -4613,7 +4613,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 31a_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">3.829986572265625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -4728,7 +4728,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 31a_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">3.1199951171875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -4843,7 +4843,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 33_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -4992,7 +4992,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 33_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">21</bldg:measuredHeight>
 <bldg:storeysAboveGround>8</bldg:storeysAboveGround>
@@ -5107,7 +5107,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Petersgasse 136_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.141754150390627</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -5239,7 +5239,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Petersgasse 136_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">12.806854248046877</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -5354,7 +5354,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Petersgasse 136_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.1630859375</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -5469,7 +5469,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Petersgasse 136_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.861114501953126</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -5584,7 +5584,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 23_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">12.79461669921875</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -5801,7 +5801,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 23_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">17.765426635742188</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -5916,7 +5916,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 21B_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2004</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">12.830612182617188</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -6133,7 +6133,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 21B_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2004</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">14.807510375976562</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -6248,7 +6248,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 21A_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2003</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">11.91021728515625</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -6465,7 +6465,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 21A_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2003</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">14.504486083984377</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -6580,7 +6580,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 11_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.94970703125</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -6695,7 +6695,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 11_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">16.436614990234375</bldg:measuredHeight>
 <bldg:storeysAboveGround>5</bldg:storeysAboveGround>
@@ -6827,7 +6827,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 11_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2005</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.0301513671875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -6959,7 +6959,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 15_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.41998291015625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -7074,7 +7074,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 13_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">30.774139404296875</bldg:measuredHeight>
 <bldg:storeysAboveGround>8</bldg:storeysAboveGround>
@@ -7291,7 +7291,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 13_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">35.0279541015625</bldg:measuredHeight>
 <bldg:storeysAboveGround>8</bldg:storeysAboveGround>
@@ -7406,7 +7406,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 21_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2008</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.71661376953125</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -7691,7 +7691,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 21_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2008</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">12.638885498046877</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -7840,7 +7840,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 19_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">16.970001220703125</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -8023,7 +8023,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 19_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">20.459991455078125</bldg:measuredHeight>
 <bldg:storeysAboveGround>5</bldg:storeysAboveGround>
@@ -8138,7 +8138,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.192794799804688</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -8355,7 +8355,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">20.860656738281246</bldg:measuredHeight>
 <bldg:storeysAboveGround>7</bldg:storeysAboveGround>
@@ -8861,7 +8861,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.4329833984375</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -9044,7 +9044,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.6932373046875</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -9227,7 +9227,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.20343017578125</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -9376,7 +9376,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.579620361328126</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -9508,7 +9508,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.159011840820314</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -9640,7 +9640,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.873687744140626</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -9823,7 +9823,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_9</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">18.091964721679688</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -9972,7 +9972,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_10</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.18096923828125</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -10087,7 +10087,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_11</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">3.710922241210938</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -10219,7 +10219,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25F_12</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.056732177734376</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -10368,7 +10368,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.080230712890626</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -10602,7 +10602,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">20.4656982421875</bldg:measuredHeight>
 <bldg:storeysAboveGround>7</bldg:storeysAboveGround>
@@ -11040,7 +11040,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.8699951171875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -11172,7 +11172,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.636322021484377</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -11304,7 +11304,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.292953491210938</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -11453,7 +11453,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.598419189453126</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -11619,7 +11619,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.044097900390625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -11785,7 +11785,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25E_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.45318603515625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -11968,7 +11968,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.324188232421877</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -12287,7 +12287,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.30999755859375</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -12436,7 +12436,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">9.25946044921875</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -12585,7 +12585,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.999542236328127</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -12734,7 +12734,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">11.3699951171875</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -12883,7 +12883,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">11.443069458007812</bldg:measuredHeight>
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
@@ -12998,7 +12998,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.049911499023438</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -13317,7 +13317,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25D_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">2.649993896484375</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -13466,7 +13466,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.813583374023438</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -13700,7 +13700,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">3.660552978515625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -13917,7 +13917,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">21.256912231445312</bldg:measuredHeight>
 <bldg:storeysAboveGround>7</bldg:storeysAboveGround>
@@ -14355,7 +14355,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.970535278320314</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -14521,7 +14521,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.2401123046875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -14670,7 +14670,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.91925048828125</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -14819,7 +14819,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.602691650390626</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -14934,7 +14934,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25C_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.87420654296875</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -15049,7 +15049,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.182846069335938</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -15266,7 +15266,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">24.514343261718754</bldg:measuredHeight>
 <bldg:storeysAboveGround>7</bldg:storeysAboveGround>
@@ -15755,7 +15755,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">10.49664306640625</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -15938,7 +15938,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.98162841796875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16104,7 +16104,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.218551635742188</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16253,7 +16253,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.5</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16402,7 +16402,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.132064819335939</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16534,7 +16534,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.455810546875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16649,7 +16649,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_9</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">6.10284423828125</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16764,7 +16764,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_10</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.825027465820312</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16879,7 +16879,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_11</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">13.83880615234375</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -16994,7 +16994,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25B_12</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.717559814453127</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -17160,7 +17160,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.449462890625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -17394,7 +17394,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">20</bldg:measuredHeight>
 <bldg:storeysAboveGround>7</bldg:storeysAboveGround>
@@ -17747,7 +17747,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_3</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.72772216796875</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -17913,7 +17913,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_4</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.5</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -18096,7 +18096,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.5</bldg:measuredHeight>
 <bldg:storeysAboveGround>3</bldg:storeysAboveGround>
@@ -18211,7 +18211,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_6</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.5</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -18360,7 +18360,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_7</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.5</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -18475,7 +18475,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_8</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.649993896484376</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -18607,7 +18607,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_9</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">4.405914306640625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -18756,7 +18756,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_10</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">5.88580322265625</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -18888,7 +18888,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 25A_11</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>1976</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">11.521621704101562</bldg:measuredHeight>
 <bldg:storeysAboveGround>1</bldg:storeysAboveGround>
@@ -19037,7 +19037,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_2</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">8.137664794921877</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -19628,7 +19628,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse 18_5</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2010</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">11.061508178710938</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -19777,7 +19777,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse31_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">7.529998779296876</bldg:measuredHeight>
 <bldg:storeysAboveGround>2</bldg:storeysAboveGround>
@@ -19892,7 +19892,7 @@
 <core:cityObjectMember>
 <bldg:Building>
 <gml:name>Inffeldgasse10_1</gml:name>
-<bldg:function>1120</bldg:function>
+<bldg:function>institute</bldg:function>
 <bldg:yearOfConstruction>2000</bldg:yearOfConstruction>
 <bldg:measuredHeight uom="m">15.330001831054688</bldg:measuredHeight>
 <bldg:storeysAboveGround>5</bldg:storeysAboveGround>

@@ -8,17 +8,18 @@ model Inffeldgasse25A_1
     buildingID=94,
     energyDynamics=Modelica.Fluid.Types.Dynamics.FixedInitial,
     T_start = 293.15,
-    VAir = 2806.0736396908765,
-    ABuilding=332.10083007812494,
-    ASurTot=7198.896646008035,
-    numZones = 6,
+    VAir = 2806.073639690876,
+    ABuilding=332.100830078125,
+    ASurTot=10748.673336004982,
+    numZones = 7,
     zoneParam = {
       Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_Office(),
       Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_Floor(),
       Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_Storage(),
       Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_Meeting(),
       Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_Restroom(),
-      Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_ICT()
+      Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_ICT(),
+      Inffeldgasse25A_1_DataBase.Inffeldgasse25A_1_Laboratory()
       },
   heatAHU = false,
   coolAHU = false,
@@ -49,7 +50,7 @@ model Inffeldgasse25A_1
     calTSky=AixLib.BoundaryConditions.Types.SkyTemperatureCalculation.HorizontalRadiation,
     computeWetBulbTemperature=false,
     filNam=
-      "C:/Users/there/Desktop/TU Graz/Endbericht/weatherfile/AUT_Graz.112400_IWEC(2).mos")
+      "C:/Users/there/Downloads/AUT_ST_Graz.Univ.112900_TMYx/AUT_ST_Graz.Univ.112900_TMYx.mos")
     "Weather data reader"
     annotation (Placement(transformation(extent={{-82,30},{-62,50}})));
 
@@ -59,7 +60,7 @@ model Inffeldgasse25A_1
     tableName="Internals",
     fileName=Modelica.Utilities.Files.loadResource(
         "modelica://Inffeldgasse/Inffeldgasse25A_1/InternalGains_Inffeldgasse25A_1.mat"),
-    columns=2:19)
+    columns=2:22)
     "Profiles for internal gains"
     annotation (Placement(transformation(extent={{72,-42},{56,-26}})));
 
@@ -79,11 +80,11 @@ model Inffeldgasse25A_1
     extrapolation=Modelica.Blocks.Types.Extrapolation.Periodic,
     fileName=Modelica.Utilities.Files.loadResource(
         "modelica://Inffeldgasse/Inffeldgasse25A_1/Tset_Inffeldgasse25A_1.mat"),
-    columns=2:7)
+    columns=2:8)
     "Set points for heater"
     annotation (Placement(transformation(extent={{72,-66},{56,-50}})));
 
-  Modelica.Blocks.Sources.Constant const[6](each k=0)
+  Modelica.Blocks.Sources.Constant const[7](each k=0)
     "Set point for cooler"
     annotation (Placement(transformation(extent={{72,-90},{56,-74}})));
 
