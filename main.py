@@ -33,7 +33,7 @@ def main():
 
     #enrichment of CityGML-file with TEASER
 
-    weatherfile = data_dir / 'AUT_Graz_IWEC.mos'
+    weatherfile = data_dir / 'AUT_Graz_Univ.mos'
     modelica_dir = data_dir / 'modelica'
     enrich_citygml(project_name, gml_file_teaser_buildingfunc, weatherfile, modelica_dir)
 
